@@ -7,7 +7,7 @@ The user will be able to add stuff to the grocery list, remove stuff from the gr
 * public void remove(String item)
 * public String toString()
 
-You should add code to the [GroceryList.java](src/main/java/GroceryList.java) file.
+You should add code to the [GroceryList.java](untitled/src/GroceryList.java) file.
 
 **Note that none of the tests will work until toString() works**
 
